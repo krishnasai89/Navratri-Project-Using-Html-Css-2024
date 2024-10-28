@@ -30,9 +30,6 @@ body{
     width: 500px;
     color:white;
     text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.73);
-   
-
-
 }
 
 .nav-link
@@ -68,8 +65,8 @@ h1{
 
 .nav-link:hover
 {
-   color: rgb(255, 0, 0);
-   text-shadow: 0 0 20px black;
+    color: rgb(255, 0, 0);
+    text-shadow: 0 0 20px black;
 }
 video
 {
@@ -143,4 +140,3 @@ video
     from{ bottom:-100px; opacity:0 } 
     to{ bottom:0; opacity:1 }
 }
-
